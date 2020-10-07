@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const LogIn = styled.div`
     background-color: #4285F4;
     width: 384px;
-    height: 46px;
+    height: 46.5px;
     display: flex;
     font-family: 'Roboto', sans-serif;
     color: white;
